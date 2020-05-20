@@ -1,0 +1,20 @@
+- git:
+    local-name: caster_description
+    uri: git@github.com:CasterLab/caster_description.git
+    version: master
+- git:
+    local-name: caster_desktop
+    uri: git@github.com:CasterLab/caster_desktop.git
+    version: master
+- git:
+    local-name: caster_msgs
+    uri: git@github.com:CasterLab/caster_msgs.git
+    version: master
+- git:
+    local-name: caster_simulator
+    uri: git@github.com:CasterLab/caster_simulator.git
+    version: master
+- git:
+    local-name: hongfu_bms
+    uri: git@github.com:I-Quotient-Robotics/hongfu_bms.git
+    version: master
